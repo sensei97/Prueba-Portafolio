@@ -1,0 +1,16 @@
+.img-fluid {
+  width: 4rem;
+  height: 4rem;
+}
+
+#Mi-experiencia .image-top {
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+  p, li{
+    text-align: justify;
+  }
+  
