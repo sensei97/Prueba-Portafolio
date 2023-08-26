@@ -2,6 +2,16 @@
   width: 4rem;
   height: 4rem;
 }
+#Mi-educacion .card-img-top{
+  width: 40%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.height {
+  height: 30rem;
+}
+
 
 #Mi-experiencia .image-top {
   height: 300px;
