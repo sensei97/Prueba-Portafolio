@@ -1,22 +1,18 @@
-
 section {
-    width: 100%;
-    height: 100%;
-    background-image: url("../img/mtx-bg.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  background-image: url("../img/mtx-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .card-img-top {
-    width: 17.375rem;
-    height: 11.25rem;
-  }
+  width: 17.375rem;
+  height: 11.25rem;
+}
 
-  img {
-    width: 8rem;
+img {
+  width: 8rem;
   height: 4rem;
-  }
-
-
-  
+}

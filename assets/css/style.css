@@ -2,7 +2,7 @@
   width: 4rem;
   height: 4rem;
 }
-#Mi-educacion .card-img-top{
+#Mi-educacion .card-img-top {
   width: 40%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -12,7 +12,6 @@
   height: 30rem;
 }
 
-
 #Mi-experiencia .image-top {
   height: 300px;
   background-repeat: no-repeat;
@@ -20,7 +19,7 @@
   background-position: center;
 }
 
-  p, li{
-    text-align: justify;
-  }
-  
+p,
+li {
+  text-align: justify;
+}
